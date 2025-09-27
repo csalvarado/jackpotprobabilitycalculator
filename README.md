@@ -23,9 +23,11 @@ Si tenéis **Docker** y **Docker Compose** instalados, esta es la forma más rá
 
 ### 1. Descargar el Repositorio
 ```console
-git clone [https://github.com/tu-usuario/nombre-del-repo.git](https://github.com/tu-usuario/nombre-del-repo.git)
-cd nombre-del-repo
+git clone https://github.com/csalvarado/jackpotprobabilitycalculator.git
+cd jackpotprobabilitycalculator
 ```
+Se ha dejado el proyecto en un fichero zip para poder descargar desde el hilo de correo. Debéis hacer change directory al proyecto para seguir con las instrucciones.
+
 ### 2. Compilar, Construir y Ejecutar con Docker Compose
 Construye la imagen de Docker y levanta el contenedor en segundo plano (-d)
 ```console
